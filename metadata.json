@@ -1,0 +1,5 @@
+{
+  "name": "SecureShare",
+  "description": "A secure, temporary file sharing application with strict password protection requirements.",
+  "requestFramePermissions": []
+}
